@@ -37,4 +37,7 @@ class Route{
     {
         return self::$page;
     }
+
+
+    
 }
